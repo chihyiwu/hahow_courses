@@ -14,4 +14,4 @@ hahow 線上程式課程數據分析
 ```python hahow_courses.py ```
 
 # cmd執行畫面
-![image](https://github.com/chihyiwu/PTT-Beauty_download/blob/master/%E7%AF%84%E4%BE%8B1.JPG)
+![image](https://github.com/chihyiwu/hahow_courses/blob/master/hahow.JPG)
